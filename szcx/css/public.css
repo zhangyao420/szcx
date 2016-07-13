@@ -1,0 +1,27 @@
+body,h1,h2,h3,h4,h5,h6,ul,li,p,input{
+margin:0;
+padding:0;
+/* list-style:none; *//*清除列表标签小圆点*/
+font-family:"宋体","微软雅黑","Arial";
+
+}
+body{
+line-height: 160%;
+background: url(../images/header_bg.png) center top repeat-x;
+font-size: 12px;
+}
+a{
+color:#54544c;
+text-decoration:none;
+}
+ul a:hover{
+	color:#E70014;
+	text-decoration:underline;
+}
+.mianbaoxie a:hover{
+	text-decoration:underline;
+}
+/*图片被a标签包裹时，在ie浏览器下会产生边框*/
+img{
+border:none;/*去除边框*/
+}

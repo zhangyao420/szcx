@@ -1,0 +1,394 @@
+.tops{
+	position: relative;
+    margin: 0 auto;
+    width: 960px;
+    height: 76px;
+}
+.logo{
+	margin-top: 15px;
+	float: left;
+}
+.beijing{
+	width: 80px;
+	height: 28px;
+	float: left;
+	text-align: center;
+	line-height: 28px;
+	
+	font-size: 12px;
+	position: relative;
+}
+.bj{
+	width: 80px;
+	height: 28px;
+	font-weight: bold;
+}
+.xialakuang{
+	width: 80px;
+	height: auto;
+	background: #e8f1f8;
+	position: absolute;
+	left: 0;
+	top: 28px;
+	z-index: 9;
+	display:none;
+}
+.xialakuang div{
+	width: 80px;
+	height: 25px;
+}
+.xialakuang div:hover{
+	background: #4ef3f1;
+	color: #4cc6e9
+}
+.shouye{
+	background: url(../images/nav_h.png)center 4px no-repeat;
+	color: #fff;
+}
+.yuanyanbox{
+	width: 170px;
+	height: 30px;
+	float: right;
+}
+.yuyan{
+	width: 80px;
+	height: 30px;
+	float: left;
+	text-align: center;
+	line-height: 30px;
+}
+.daohang{
+	width: 690px;
+	height: 30px;
+	float: right;
+}
+.fengexian{
+    float: left;
+    line-height: 30px;
+    color: #ccc;
+}
+.bj:hover{
+	background: url(../images/nav_h.png)center 4px no-repeat;
+	color: #fff;
+}
+.banner{
+	width: 960px;
+	height: 301px;
+	margin: 0 auto;
+	overflow: hidden;
+	border-radius: 3px;
+	position: relative;
+}
+.banner a{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.bannertu{
+	width: 960px;
+	height: 300px;
+}
+.gslb{
+	width: 960px;
+	height: 72px;
+	margin: 2px auto 0;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+	overflow: hidden;
+	position: relative;
+}
+.gsq{
+	width: 900px;
+	height: 43px;
+	margin: 14px 0 0 40px;
+	overflow: hidden;
+	float: left;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.gsqbox{
+	width: 1500px;
+	height: 43px;
+}
+.gongsiqun{
+	width: 150px;
+	height: 44px;
+	float: left;
+}
+.gongsiqun img{
+	width: 128px;
+	height: 41px;
+	vertical-align: middle;
+	border: 1px solid #e2e2e2;
+}	
+.zuo{
+	float: left;
+}
+.you{
+	float: right;
+	z-index: 2
+}
+.wenben{
+	width: 960px;
+	height: 436px;
+	margin: 8px auto 0;
+	background: url(../images/ind_main_bg.gif) center top repeat-x;
+}
+.chaoqunshili{
+	width: 311px;
+	height: 256px;
+	float: left;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+}
+.zhuoyueyeji{
+	width: 357px;
+	height: 256px;
+	margin: 0 12px;
+	float: left;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+}
+.quanguowangluo{
+	width: 262px;
+	height: 256px;
+	float: left;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+}
+.chuangtoudongtai{
+	width: 311px;
+	height: 167px;
+	float: left;
+	margin-top: 8px;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+}
+.gongsidongtai{
+	width: 357px;
+	height: 167px;
+	margin: 8px 12px 0;
+	float: left;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+}
+.title{
+	width: 100%;
+	height: 29px;
+	border-bottom: 1px solid #bed3df;
+	line-height: 29px;
+	float: left;
+	font-weight: bold;
+}
+.title p{
+	margin-left: 30px;
+}
+.cqsl{
+	width:300px; 
+	height: 226px;
+	float: left;
+	margin-left: 8px;
+}
+.cqsl p{
+	font-size: 12px;
+	text-indent:2em;
+	line-height: 1.4em;
+	margin-top: 8px;
+}
+.zyyj{
+	width:346px; 
+	height: 226px;
+	float: left;
+	margin-left: 8px;
+}
+.zyyj p{
+	font-size: 12px;
+	text-indent:2em;
+	line-height: 1.4em;
+	margin-top: 8px;
+}
+.qgwl{
+	width:250px; 
+	height: 226px;
+	float: left;
+	margin-left: 8px;
+}
+.qgwl p{
+	font-size: 12px;
+	text-indent:2em;
+	line-height: 1.4em;
+	margin-top: 8px;
+
+}
+.cxdt{
+	width:240px; 
+	height:157px;
+	margin:20px 0 0 30px;
+	float: left;
+	list-style:square;
+}
+.gsdt{
+	width:310px; 
+	height:157px;
+	margin:20px 0 0 30px;
+	float: left;
+	list-style:square;
+}
+.flinkbox{
+	width: 960px;
+	height: 33px;
+	margin: 8px auto 0;
+}
+.jjgs{
+	width: 379px;
+	height: 32px;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+	margin-right: 11px;
+	float: left;
+	position: relative;
+}
+.jijingongsi{
+	width: 379px;
+	height: 32px;
+	background:url(../images/基金.png) center top repeat-x;
+}
+.tzqy{
+	width: 269px;
+	height: 32px;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+	margin-right: 11px;
+	float: left;
+	position: relative;
+}
+.touziqiye{
+	width: 269px;
+	height: 32px;
+	background:url(../images/投资.png) center top repeat-x;
+}
+.yqlj{
+	width: 284px;
+	height: 32px;
+	border: 1px solid #e2e2e2;
+	border-radius: 3px;
+	float: left;
+	position: relative;
+}
+.youqinglianjie{
+	width: 284px;
+	height: 32px;
+	background:url(../images/友情.png) center top repeat-x;
+}
+.flinkgongsi{
+	width: 378px;
+	height: 190px;
+	overflow: auto;
+	border: 1px solid #e2e2e2;
+	background: #fff;
+	font-size: 14px;
+	position: absolute;
+	left: 0;
+	bottom: 32px;
+}
+.flinkgongsi div{
+	width: 330px;
+	height: 30px;
+	border-bottom: 1px dashed #e2e2e2;
+	line-height: 30px;
+	margin-left: 12px;
+}
+.flinkgongsi a:hover{
+	color:#E70014;
+	text-decoration:underline;
+}
+.flinkhangye{
+	width: 268px;
+	height: 190px;
+	overflow: auto;
+	border: 1px solid #e2e2e2;
+	background: #fff;
+	font-size: 14px;
+	position: absolute;
+	left: 0;
+	bottom: 32px;
+}
+.flinkhangye div{
+	width: 220px;
+	height: 30px;
+	border-bottom: 1px dashed #e2e2e2;
+	line-height: 30px;
+	margin-left: 12px;
+}
+.flinkhangye a:hover{
+	color:#E70014;
+	text-decoration:underline;
+}
+.flink{
+	display: none;
+}
+.flinkchuangye{
+	width: 283px;
+	height: 190px;
+	overflow: auto;
+	border: 1px solid #e2e2e2;
+	background: #fff;
+	font-size: 14px;
+	position: absolute;
+	left: 0;
+	bottom: 32px;
+}
+.flinkchuangye div{
+	width: 250px;
+	height: 30px;
+	border-bottom: 1px dashed #e2e2e2;
+	line-height: 30px;
+	margin-left: 12px;
+}
+.flinkchuangye a:hover{
+	color:#E70014;
+	text-decoration:underline;
+}
+.banquanbox{
+	width: 960px;
+	height: 60px;
+	margin: 8px auto 0;
+	border-top: 1px solid #e2e2e2;
+	/*background: red*/
+}
+.banquan{
+	width: 362px;
+	height: 60px;
+	float: left;
+	margin-left: 12px;
+}
+.banquantubiao{
+	width: 186px;
+	height: 60px;
+	float: right;
+}
+.bqnr{
+	float: left;
+}
+.shu{
+	float: left;
+	margin: 0 10px;
+}
+.bqsy{
+	float: left;;
+	margin-right: 3px;
+}
+.wenzibox{
+	width: 362px;
+}
+
+.banquan a:hover{
+	color:#E70014;
+	text-decoration:underline;
+}
+.banquantubiao img{
+	width: 45px;
+	float: left;
+	margin:5px 5px 0 0;
+}

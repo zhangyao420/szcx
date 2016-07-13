@@ -1,0 +1,280 @@
+.tops{
+	position: relative;
+    margin: 0 auto;
+    width: 960px;
+    height: 76px;
+}
+.logo{
+	margin-top: 15px;
+	float: left;
+}
+.beijing{
+	width: 80px;
+	height: 28px;
+	float: left;
+	text-align: center;
+	line-height: 28px;
+	
+	font-size: 12px;
+	position: relative;
+}
+.bj{
+	width: 80px;
+	height: 28px;
+	font-weight: bold;
+}
+.xialakuang{
+	width: 80px;
+	height: auto;
+	background: #e8f1f8;
+	position: absolute;
+	left: 0;
+	top: 28px;
+	z-index: 9;
+	display:none;
+}
+.xialakuang div{
+	width: 80px;
+	height: 25px;
+}
+.xialakuang div:hover{
+	background: #4ef3f1;
+	color: #4cc6e9
+}
+.contact{
+	background: url(../images/nav_h.png)center 4px no-repeat;
+	color: #fff;
+}
+.yuanyanbox{
+	width: 170px;
+	height: 30px;
+	float: right;
+}
+.yuyan{
+	width: 80px;
+	height: 30px;
+	float: left;
+	text-align: center;
+	line-height: 30px;
+}
+.daohang{
+	width: 690px;
+	height: 30px;
+	float: right;
+}
+.fengexian{
+    float: left;
+    line-height: 30px;
+    color: #ccc;
+}
+.bj:hover{
+	background: url(../images/nav_h.png)center 4px no-repeat;
+	color: #fff;
+}
+.general{
+	width: 970px;
+	height: 650px;
+	margin: 0 auto;
+}
+.left{
+	width: 203px;
+	height: 650px;
+	margin-right: 28px;
+	float: left;
+	overflow: hidden;
+}
+.left-top{
+	width: 199px;
+	height: 320px;
+	background: #fbfafa;
+	border: 1px solid #e2e1e1;
+	border-radius: 3px;
+
+}
+.guanyuwomen{
+	width: 184px;
+	height:31px;
+	background: url(../images/side_nav.png) -11px 0 no-repeat;
+	padding:14px 0 0 17px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.liebiao{
+	width: 187px;
+	height: 30px;
+	border-bottom: 1px solid #e2e1e1;
+	padding-left: 13px;
+	color: #434343;
+	line-height: 30px;
+	cursor: pointer;
+}
+.liebiao:hover{
+	background: url(../images/side_nav_h.png);
+	color: #fff;
+}
+.nian{
+	width: 180px;
+	height: 30px;
+	border-bottom: 1px solid #e2e1e1;
+	padding-left: 18px;
+	color: #818181;
+	line-height: 30px;
+	background: #f3f3f3;
+	cursor: pointer
+}
+.nian:hover{
+	color:#042b55;
+}
+.call{
+	width: 201px;
+	height: 58px;
+	margin: 60px auto 0;
+}
+.donghua{
+	width: 201px;
+	height: 300px;
+	border: 1px solid #e2e1e1;
+	border-radius: 3px;
+	margin-top: 20px;
+	background: url(../images/fr_link_bg.png) -10px -2.5px no-repeat;
+}
+.dht{
+	width: 170px;
+	height: 35px;
+	margin-left: 30px;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 35px;
+}
+.dhbox{
+	width: 158px;
+	height: 230px;
+	margin: 20px auto 0;
+	overflow: hidden;
+	position: relative;
+	border: 1px solid #e2e1e1;
+}
+.gsqbox{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.gsq img{
+	width: 158px;
+	height: 43px;
+	margin-bottom: 5px;
+}
+.right{
+	width: 720px;
+	height: 650px;
+	float: left;
+}
+.imgs{
+	width: 720px;
+	height: 185px;
+}
+.imgs img{
+	width: 720px;
+	height: 185px;
+}
+.nrtitle{
+	width: 100%;
+	height: 25px;
+	background: url(../images/location_bg.png) #eaeaea 0 0 no-repeat;
+	margin-top: 8px;
+	border-radius: 3px;
+}
+.gongsijieshao{
+	width: 100px;
+	height: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	line-height: 25px;
+	margin-left: 15px;
+	float: left;
+}
+.mianbaoxie{
+	width: 285px;
+	height: 25px;
+	float: right;
+	font-size: 12px;
+	line-height: 25px;
+	color: #707070;
+}
+.jieshaowenben{
+	width: 700px;
+	height: 358px;
+	margin:40px 0 0 10px;
+	line-height: 20px;
+	color: #54544c;
+	float: left;
+}
+.rl{
+	width: 507px;
+	height: 358px;
+	margin-left:40px;
+	float: left;
+	font-size: 14px;
+	line-height: 30px;
+}
+.rl a{
+	text-decoration:underline;
+	color: #54544c;
+}
+.jihuatu{
+	margin-top: 50px;
+}
+.rr{
+	width: 76px;
+	height: 358px;
+    float: left;
+    margin-left: 30px;
+}
+.rr img{
+	width: 76px;
+	height: 107px;
+}
+.banquanbox{
+	width: 960px;
+	height: 60px;
+	margin: 8px auto 0;
+	border-top: 1px solid #e2e2e2;
+}
+.banquan{
+	width: 362px;
+	height: 60px;
+	float: left;
+	margin-left: 12px;
+}
+.banquantubiao{
+	width: 186px;
+	height: 60px;
+	float: right;
+}
+.bqnr{
+	float: left;
+}
+.shu{
+	float: left;
+	margin: 0 10px;
+}
+.bqsy{
+	float: left;;
+	margin-right: 3px;
+}
+.wenzibox{
+	width: 362px;
+}
+
+.banquan a:hover{
+	color:#E70014;
+	text-decoration:underline;
+}
+.banquantubiao img{
+	width: 45px;
+	float: left;
+	margin:5px 5px 0 0;
+}
